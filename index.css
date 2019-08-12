@@ -1,0 +1,16 @@
+* {
+    background-color: rgb(237, 248, 205);
+    padding: 0;
+    margin: 0;
+  }
+
+  #myCanvas {
+    margin-top: 50px;
+  }
+  
+  canvas {
+    background: rgb(0, 0, 0);
+    display: block;
+    margin: 0 auto;
+  }
+  
